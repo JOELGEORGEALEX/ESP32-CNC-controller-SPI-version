@@ -31,5 +31,5 @@ The SPI data is sent to stepper controllers using daisy chaining technique. Whol
 
 # Working video
 
-[![Watch the video](https://i9.ytimg.com/vi/RcfOEs45tHI/mq2.jpg?sqp=CNyI6pYG&rs=AOn4CLDFn4ce-WG60K_OdgS9JY6009HTXA)]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/RcfOEs45tHI))
+[![Watch the video](https://i9.ytimg.com/vi/RcfOEs45tHI/mq2.jpg?sqp=CNyI6pYG&rs=AOn4CLDFn4ce-WG60K_OdgS9JY6009HTXA)](https://youtu.be/RcfOEs45tHI)
 
